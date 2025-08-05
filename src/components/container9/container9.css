@@ -1,0 +1,24 @@
+.main9 {
+    display: grid;
+    margin-top: 100px;
+    justify-content: center;
+
+}
+
+.main9 h1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+
+.rasm9 {
+    display: flex;
+    justify-content: center;
+
+    margin-top: 10px;
+}
+
+.rasm9 img {
+    height: 30px;
+}

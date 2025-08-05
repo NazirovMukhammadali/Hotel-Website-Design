@@ -1,0 +1,9 @@
+.main3 {
+    display: grid;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.img {
+    height: 300px;
+}

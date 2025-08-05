@@ -1,0 +1,8 @@
+.main {
+    display: grid;
+    justify-content: center;
+}
+
+.img {
+    height: 300px;
+}

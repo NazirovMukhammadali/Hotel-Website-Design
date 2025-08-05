@@ -1,0 +1,89 @@
+.mainfooter {
+    margin-top: 150px;
+    height: 250px;
+    background-color: #14274A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainfooter1 {
+    flex: 1;
+    display: grid;
+    justify-content: center;
+}
+
+
+
+.mainfooter2 {
+    flex: 1;
+    display: grid;
+    justify-content: center;
+    color: white;
+    gap: 18px;
+}
+
+
+.mainfooter3 {
+    flex: 1;
+    display: grid;
+    justify-content: center;
+    gap: 18px;
+}
+
+.Facebook {
+    display: flex;
+}
+
+.Facebook img {
+    margin-right: 20px;
+}
+
+.Twitter {
+    display: flex;
+}
+
+.Twitter img {
+    margin-right: 20px;
+}
+
+.Instagram {
+    display: flex;
+}
+
+.Instagram img {
+    margin-right: 20px;
+}
+
+
+
+.mainfooter4 {
+    flex: 1;
+    display: grid;
+    justify-content: center;
+    gap: 30px;
+}
+
+.footerinput {
+    width: 250px;
+    height: 45px;
+    background-color: #14274A;
+    border: 2px solid;
+    border-color: #E0B973;
+}
+
+.footerinbut {
+    display: flex;
+}
+
+.footerbutton {
+    height: 45px;
+    width: 60px;
+    background-color: #E0B973;
+    border: 2px solid;
+    border-color: #E0B973;
+}
+
+#inputID::placeholder {
+    color: white;
+}
